@@ -4,7 +4,7 @@ Analyisis of an  animal study of 249 mice that were identified with SCC tumors a
 
                            Insights and observations 
 
-•    The regression analysis shows how much the average tumor volume will change when weight of the mouse changes. Average tumor volume (y) = 0.95 Weight (x) + 21.55 inidicating a positive slope of the regression line. Based on our final model, we have a strong positive correlation which can be interpreted as a one-unit increase in weight, will lead to a 22.50 increase in the average tumor.
+•    The regression analysis shows how much the average tumor volume will change when weight of the mouse changes. Average tumor volume (y) = 0.95 Weight (x) + 21.55 indicating a positive slope of the regression line. Based on our final model, we have a strong positive correlation which can be interpreted as a one-unit increase in the average weight, will lead to a 22.50 increase in the average tumor.
 
 •   The bar graph shows that the drug regimen Capomulin was tested on the highest number of mice (230), followed by Ramicane (228).
 
