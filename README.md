@@ -1,8 +1,8 @@
-Pymaceuticals Inc. Analysis
+                                                 Pymaceuticals Inc. Analysis
 
 Analyisis of an  animal study of 249 mice that were identified with SCC tumors and received treatment with a range of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of Pymaceuticals’ drug of interest, Capomulin, against the other treatment regimens.
 
-Insights and observations 
+                                                 Insights and observations 
 
 •		The regression analysis shows how much the average tumor volume (dependent variable) will change when weight of the mouse changes (independent variable), with positive slope of the regression line. Average tumor volume (y) = 0.95 Weight (x) + 21.55. Based on our final model, we have a strong positive correlation which can be interpreted as a one-unit increase in weight, will lead to a 22.50 increase in average tumor. The bar graph shows that the drug regimen Capomulin was tested on the highest number of mice (230), followed by Ramicane (228).
 
